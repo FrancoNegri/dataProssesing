@@ -1,0 +1,351 @@
+1	0	46 55	F	Capital Federal	Latino	Mi montaña aguileña recorrió la esquina
+1	0	26 35	F	Buenos Aires	Norte argentino	Mi montaña aguileña recorrió la esquina
+1	0	18 25	F	Capital Federal	Argentina	Mi montaña aguileña recorrió la esquina
+1	0	18 25	F	Capital Federal	Argentino	Mi montaña aguileña recorrio la esquina
+1	0	18 25	M	Buenos Aires	española	mi montaña aguileña recorrió la esquina
+1	0	36 45	F	Capital Federal	argentina	mi montania aguilenia recorrió la esquina
+2	0	18 25	F	Buenos Aires	argentino	Aquel fuerte vidrio prefirió aquel botón
+2	0	18 25	F	Buenos Aires	Ninguna 	Aquel fuerte vidrio prefirio aquel boton
+2	0	18 25	F	Capital Federal	Ninguna 	Aquel fuerte vidrio prefirió aquel botón 
+2	0	18 25	M	Buenos Aires	Argentino	aquel fuerte vidrio prefirio aquel boton
+2	0	26 35	M	Buenos Aires	Argentina	aquel fuerte vidrio prefirió aquel botón
+2	0	18 25	M	Fuera de Argentina	Chile	aquel fuerte vidrio prefirió aquel botón 
+3	0	46 55	F	Capital Federal	Indefinida	Este enjoyado fue comprado corchete
+3	0	18 25	F	Buenos Aires	Argentino	Este enjollado puede comparar nuestro cochete
+3	0	18 25	F	Misiones	Argentina	Este enfueyado fue comparado corchete
+3	0	26 35	M	Buenos Aires	Argentino 	Este enfollado juez comprará nuestro corchete
+3	0	18 25	F	San Luis	Español	Corchete 
+3	0	26 35	F	Buenos Aires	Español	Este enfollado fue comprar nuestro corchete
+3	0	18 25	M	Capital Federal	Argentino capital federal 	Corchete
+3	0	18 25	F	Capital Federal	Robot	Este enrollado fue comprado nuestro corchete
+3	0	18 25	M	Buenos Aires	española	este enjoyado juez comprará nuestro corchete
+3	0	18 25	M	Buenos Aires	Paraguayo	este enjoyado fue comprado este corchete
+3	0	26 35	M	Córdoba	No se especifica 	Este enjoyado juez comprará nuestro corchete
+4	0	18 25	M	Chubut	Argentina	Tu estrecho posa basos grito la fechoria
+4	0	18 25	F	Buenos Aires	Argentina 	Tu estrecho posa vasos grito
+4	0	26 35	M	Buenos Aires	españa	tu estrecho posavasos gritó la fechoría
+4	0	18 25	M	Buenos Aires	Cigbord	Gritemos portavasos gritona fechoria
+4	0	18 25	M	Buenos Aires	parece una voz artificial	Tu estrecho posavasos gritó la fechoría
+4	0	26 35	M	Santa Fe	Española	Tu estrecho posavasos gritó la fechoría
+4	0	26 35	F	Buenos Aires	no sé	su estrecho posavasos gritó en la fechoría
+4	0	26 35	M	Buenos Aires	Española	Tu estrecho posa vasos gritó la fechoría
+4	0	36 45	F	Capital Federal	español neutro	tu estrecho posavasos gritó la fechoría
+4	0	26 35	M	Buenos Aires	centroamericano	fui estrecho posavasos grito la fechoría
+5	0	18 25	F	Buenos Aires	Castellano 	Nuestro nublado tigre concluyo a este chupetin
+5	0	18 25	F	Chubut	Española	Nuestro nublado tigre concluyó a esta chupetin 
+5	0	46 55	F	Buenos Aires	Neutro	Nuestro nublado tigre concluyó a este chupetin
+5	0	18 25	F	Capital Federal	Sin nacionalidad 	Nuestro nublado tigre concluyó a este chupetin
+5	0	26 35	M	Buenos Aires	argentina	nuestro nublado tigre concluyó a este chupetín
+5	0	46 55	M	Capital Federal	argentina	nuestro nublado tigre concluyó a nuestro chupetín
+6	0	26 35	F	Buenos Aires	Argentina	su profundo riñon apoyo a Julio
+6	0	18 25	F	Buenos Aires	Español 	Su profundo riñón apoyo a Julio 
+6	0	26 35	M	Buenos Aires	estados unidos	su profundo riñón apoyó a Julio
+6	0	26 35	F	Buenos Aires	argentina	su profundo riñón apoyó a julio
+6	0	56 65	M	Buenos Aires	Ingles	Su profundo riñón apoyo a Julio
+6	0	18 25	F	Buenos Aires	Argentino	Su profundo riñón apoyó a Julio
+6	0	26 35	M	Santa Fe	Española	Su profundo riñón apoyó a a Julio
+6	0	36 45	M	Capital Federal	Argentino	Su profundo riñón apoyó a Julio
+7	0	18 25	M	Buenos Aires	Estadounidense	el frío churrasco yo lo de Polonia
+7	0	18 25	F	Buenos Aires	Argentina	El frío churrasco oyó lo de Polonia
+7	0	26 35	F	Santa Fe	argentina	el frío churrasco lleno de polonia
+7	0	18 25	F	Jujuy	Colombia	el frio churrasco de colombia
+7	0	26 35	F	Capital Federal	chile	el frio solo de polonia
+8	0	46 55	F	Buenos Aires	Latino	Las acongojadas cotorras sonrieron a mi circulo
+8	0	26 35	M	Chubut	Argentina 	Las acongojadas cotorras sonrieron a mi círculo 
+8	0	56 65	M	Buenos Aires	Español	Las acongojadas cotorras corrieron a mi circulo
+8	0	18 25	F	Capital Federal	España (Sur)	Las acongojadas cotorras sonrieron a mi círculo.
+8	0	18 25	F	Buenos Aires	EEUU	Las acongojadas cotorras sonrieron a mi círculo.
+8	0	18 25	F	Jujuy	argentina	Lss acongojadas cotorras sonrieron a circulo
+9	0	18 25	F	Capital Federal	Español	Ese gruñon perro prometio a esos cuñados
+9	0	18 25	M	Buenos Aires	Argentina	Ese gruñón Prometió a sus cuñados
+9	0	18 25	F	Neuquen	Paraguayo 	Ese gruñon me lo prometio a esos cuñados 
+9	0	18 25	M	Córdoba	español	ese gruñon se lo prometio a esos cuñados
+9	0	26 35	M	Río Negro	Argentino	el se reunión pero prometió a esos cuñados
+9	0	26 35	F	Capital Federal	Rusa	Ese gruñón perro prometió a esos cuñados
+9	0	26 35	M	Capital Federal	Argentina	Ese gruñon perro prometio esos cuñados
+10	0	18 25	M	La Pampa	Español	El nudillo argentino perdio su vaso
+10	0	18 25	F	Neuquen	Argentino 	El nudillo argentino perdio su vaso
+10	0	18 25	F	Buenos Aires	Argentina	El novillo argentino perdió su vaso
+10	0	18 25	F	Chubut	Español	El nudillo argentino perdio su vaso
+10	0	26 35	M	Capital Federal	argentina	el nudillo argentino perdió su vaso
+10	0	36 45	M	Capital Federal	Argentina	el nudillo argentino perdió su vaso
+1	1	18 25	F	Capital Federal	Español	Mi montaña aguileña recorrió la esquina
+1	1	26 35	F	Formosa	estadounidense	mi montaña aguileña recorrio la esquina
+1	1	18 25	F	Capital Federal	Ingles	MI montaña aguileña recorrió la esquina
+1	1	18 25	F	Chubut	Uruguay	Mi montaña recorrió la esquina
+1	1	18 25	M	Fuera de Argentina	Argentina	mi montaña aguileña recorrió la esquina
+1	1	18 25	F	Jujuy	centroamerica	Mi montaña aguileña recorrió la esquina
+1	1	36 45	F	Santa Fe	EEUU	Mi montaña aguileña recorrió la esquina
+2	1	18 25	F	Buenos Aires	Espa;ol	Aquel fuerte vidrio prefirio aquel boton
+2	1	18 25	F	Neuquen	Ingles	Aquie fuerte vidrio prefirio aquel boton 
+2	1	18 25	F	Capital Federal	Argentino	Aquel fuerte vidrio prefirio aquel boton
+2	1	18 25	F	Capital Federal	Norte argentino	Aquel fuerte vidrio prefirió aquel botón
+2	1	46 55	M	La Pampa	Gallega	Aquel fuerte vidrio prefirió aquel botón.
+2	1	26 35	M	Buenos Aires	centroamericana	aquel fuerte vidrio prefirió aquel boton
+2	1	36 45	F	Capital Federal	argentina	aquel fuerte vidrio percibió al boton
+3	1	18 25	F	Buenos Aires	La Rioja, Argentina	Este encollado encontrará nuestro corchete
+3	1	18 25	F	Capital Federal	Ninguna nacionalidad 	Este fue juez corchete
+3	1	18 25	M	Fuera de Argentina	España	este enfollado comprara nuestro corchete
+3	1	26 35	M	Buenos Aires	Española	este fue nuestro corchete 
+3	1	36 45	F	Capital Federal	Español neutro	este enjoyado juez comprará nuestro corchete
+4	1	18 25	F	Buenos Aires	español de españa	tu estrecho posavasos grito la fechoria
+4	1	26 35	M	Buenos Aires	España	tu estrecho posavasos gritó la fechoría
+4	1	18 25	F	Misiones	España	Tu estrecho posavasos gritó la fechoría
+4	1	18 25	F	San Luis	Español	Si estrecho posa vaso 
+4	1	46 55	F	Mendoza	Argentina	Tu estrecho posa vasos grito la fechoriay
+5	1	26 35	M	Chubut	Argentina	Nuestro nublado día concluyó a este chupetin
+5	1	26 35	F	Capital Federal	Alemana	Nuestro nublado vive concluyó este chupetin
+5	1	26 35	F	Capital Federal	Inglesa	nuestro nublado y reconcluyó a este chupetín
+5	1	26 35	M	Capital Federal	EEUU	nuestro nublado tigre concluyo este chupetin
+5	1	26 35	M	Capital Federal	Argentino	nuestro nublado tigre concluyó a este chupetín
+5	1	36 45	M	Capital Federal	español	Nuestro nublado tigre concluyó a este chupetín
+6	1	46 55	F	Buenos Aires	Argentino	Su profundo riñón apoyo a julio
+6	1	18 25	F	Buenos Aires	Colombiano	Su profundo riñón apoyo a julio 
+6	1	26 35	F	Buenos Aires	argentina	si lo profundo julio
+6	1	26 35	F	Fuera de Argentina	Paraguayo	Profundo riñon julio
+6	1	26 35	M	Buenos Aires	Argentino	Su profundo riñón apoyo a julio
+6	1	56 65	F	Buenos Aires	Argentina	Su profundo riñón apoyó a Julio
+6	1	26 35	M	Capital Federal	Español neutro/Rioplatense	Su profundo riñon apoyo a Julio
+6	1	18 25	M	Buenos Aires	frances	nada
+6	1	26 35	M	Capital Federal	EEUU	su profundo riñon apoyo junio
+6	1	26 35	M	Capital Federal	Argentina	su profundo riñon apoyó a julio
+7	1	46 55	F	Buenos Aires	Japones	Enfrió churrasco frío de polonia
+7	1	26 35	F	Buenos Aires	Española	el frio churrasco frio de Polonia
+7	1	18 25	F	Buenos Aires	Español 	Churrasco, Polonia 
+7	1	36 45	F	Buenos Aires	Neerlandes	Enfrio churrasco yo no de polonia
+7	1	26 35	F	Capital Federal	Español	Enfrió churrasco en solo de polonia
+7	1	18 25	M	Capital Federal	estados unidos	el frio churrasco de polonia
+7	1	18 25	M	Buenos Aires	español	
+7	1	26 35	M	Buenos Aires	ni idea'); DROP TA.. no mentira ajaj, suerte con eso	el frio churrasco oyó lo de Polonia
+7	1	18 25	F	Buenos Aires	Estadounidense	Enfrío churrasco "goyono" de Polonia
+7	1	26 35	F	Capital Federal	Inglesa	EL frío churrasco ozono de Polonia
+7	1	26 35	M	Capital Federal	estadounidense	el frío churrasco oyó lo de Polonia
+8	1	18 25	F	Tierra del Fuego	Español	Las acontojadas culturas Sonrieron en semicirculo
+8	1	18 25	F	Buenos Aires	Argentino	Las acombojadas cotorras sonrieron a mi círculo 
+8	1	46 55	F	Capital Federal	Latino	Las acongojadas cotorras sonrieron a mi círculo
+8	1	18 25	F	Buenos Aires	Google	Las acongojadas cotorras sonrieron a mi circulo 
+8	1	66	NC	Fuera de Argentina	asd	asd
+9	1	18 25	F	Capital Federal	Francia o Suiza	Ese gruñón perro prometió a esos cuñados.
+9	1	18 25	F	Buenos Aires	estadounidense 	Ese gruñón perro prometió a esos cuñados
+9	1	18 25	F	Buenos Aires	Chilena	Ese gruñón perro prometió a esos cuñados
+9	1	26 35	F	Santa Fe	estadounidense	ese gruñón perro prometió a esos cuñados
+9	1	26 35	M	Capital Federal	eeuu	ese grunion perro prometió a esos cuñados
+10	1	56 65	M	Buenos Aires	Argentino	El....perdió su vaso
+10	1	26 35	F	Córdoba	-	El argentino perdió su vaso
+10	1	26 35	M	Santa Fe	...	el nudillo argentino perdió su vaso
+10	1	26 35	M	Buenos Aires	argentina	el nudillo argentino perdio su vaso
+10	1	26 35	M	Buenos Aires	argentino	el argentino perdió su vaso
+10	1	26 35	F	Capital Federal	ingles	el nudillo argentino perdió su vaso
+1	2	18 25	M	Chubut	Boliviana	Mi montaña recorrio la esquina
+1	2	26 35	M	Buenos Aires	Japonés 	Recorrio la esquina
+1	2	18 25	F	Capital Federal	EEUU hablando español	mi montaña milenia recorrió la esquina
+1	2	18 25	F	Neuquen	Inglés 	Mi montaña aguileña recorrio la esquina
+1	2	26 35	M	Capital Federal	norteamericana	mi montaña aguileña recorrió la esquina
+1	2	26 35	M	Buenos Aires	Inglesa	mi montaña pedigüeña recorrió la esquina
+1	2	26 35	M	Buenos Aires	Estadounidense	mi montaña aguileña recorrio la esquina
+1	2	36 45	M	Capital Federal	Estadounidense	mi montaña aguileña recorrió la esquina
+2	2	18 25	M	Chubut	Inglesa	Aqueo fuerte vidrio perforo aquel boton
+2	2	18 25	F	Buenos Aires	paraguay	aquel vidrio presiono aquel boton
+2	2	26 35	M	Buenos Aires	francés	aquél fuerte vidrio prefirió aquél botón
+2	2	26 35	F	Buenos Aires	Estados Unidos	aquel fuerte vidrio percibió aquel botón
+2	2	46 55	F	Mendoza	Mexicano	Aquel fuerte vidrio percibió aquel botón 
+2	2	26 35	F	Córdoba	EEUU	Aquel fuerte vidrio prefirió aquel botón
+3	2	18 25	F	Buenos Aires	Boliviano	Este juez comprara nuestro 
+3	2	18 25	M	Chubut	anglo	este enrollado corchete
+3	2	46 55	F	Mendoza	No se	Este enrollado fue encontrar nuestro coechete
+3	2	18 25	M	Buenos Aires	Maracaibo	Este enconchado puede comprado nuestro cohete
+3	2	26 35	M	Santa Fe	Colombiano/Venezolano	Este enfollado fue encontrar nuestro corchete
+4	2	46 55	F	Capital Federal	Española	Su estrecho posavaso fechoría 
+4	2	26 35	F	Buenos Aires	italiano	la fechoria
+4	2	18 25	M	Chubut	anglo	tu estrecho posa vasos grito la fechoria
+4	2	18 25	F	Capital Federal	Ingles	Su estrecho posavazos gritó la fechoría 
+4	2	18 25	F	Capital Federal	Ingles	Su estrecho posavazos gritó la fechoría 
+4	2	26 35	M	Buenos Aires	inglés	su estrecho posavasos gritó la fechoria
+4	2	26 35	M	Capital Federal	estadounidense	tu estrecho posavasos gritó la fechoría
+4	2	36 45	M	Capital Federal	Cuba	"tu estrecho posavasos", grito la fechoría
+5	2	18 25	F	Buenos Aires	ciudad de buenos aires	nuestro nublado concluyo este chupetin
+5	2	18 25	F	Buenos Aires	Google	Nuestro nublado vive concluyo a este chupetín
+5	2	56 65	F	Buenos Aires	Argentina	Nuestro nublado y reconstruyó a este chupetín
+5	2	26 35	F	Buenos Aires	inglés	Nuestro nublado día concluyó este chupetín
+5	2	18 25	M	Buenos Aires	estadounidense	nuestro nublado tigre concluyó este chupetín
+5	2	18 25	M	Buenos Aires	Robot del traductor de Google	Nuestro hermano encontró este chupetín (?) 
+5	2	26 35	M	Córdoba	estaunidense	nuestro nublado tigre concluyó este chupetín
+5	2	26 35	M	Buenos Aires	Robot. 	Nuestro nublado concluyó este chupetín
+5	2	36 45	F	Capital Federal	español neutro	nuestro nublado ... concluyó a este chupetín
+6	2	18 25	F	Buenos Aires	polaco	si profundo donde apoyo a julio
+6	2	18 25	F	Buenos Aires	Castellano	Su profundo riñon apoyo a julio
+6	2	18 25	F	Buenos Aires	Argentino 	Su profundo riñon julio 
+6	2	46 55	F	Buenos Aires	Argentina	Su profundo riñón apoyo a julio
+6	2	18 25	M	Capital Federal	Francia	su profundo riñor apoyo a 
+6	2	18 25	M	Capital Federal	no es hispano parlante	su profundo riñon de apoyo julio
+6	2	26 35	M	Buenos Aires	español centroamérica	su profundo riñon apoyó a Julio
+6	2	18 25	M	Fuera de Argentina	Peru	su profundo riñon apoyo a Julio
+6	2	26 35	F	Capital Federal	Inglesa	su profundo riñón apoyó a Julio
+6	2	46 55	M	Capital Federal	estadounidense	Su profundo riñón apoyó a julio
+7	2	18 25	F	Capital Federal	Español	Enfrio churrascos anchos de Polonia
+7	2	46 55	F	Buenos Aires	Ingles	Enfrió churrasco de polonia
+7	2	26 35	M	Buenos Aires	Estados unidos	enfrío churrasco oyó lo de polonia
+7	2	18 25	F	Buenos Aires	Inglesa	El frío churrasco yo como de colombia
+7	2	18 25	F	Capital Federal	Inglés o Irlandés	churrasco Polonia
+7	2	18 25	M	Capital Federal	computadora	en frio churrasco yo no de polonia
+7	2	26 35	M	Buenos Aires	Brasiltino	Enfrio churrasco o jogo de Polonia
+7	2	18 25	F	Buenos Aires	EEUU	Enfrío churrasco lleno de poloña.
+7	2	26 35	M	Capital Federal	Argentina	el frio churrasco ollolo de polonia
+8	2	26 35	M	Buenos Aires	Ingles/estadounidense	Las acongojadas cotorras sonrieron a mi circulo
+8	2	18 25	M	Capital Federal	Francia	las  cotorras sonrieron en mi circulo
+8	2	18 25	F	Buenos Aires	Nose	Las acongojadas cotorras sonrieron a mi circulo
+8	2	18 25	F	Buenos Aires	Ninguno	Las acongojadas cotorras sonrieron a mi círculo
+8	2	18 25	M	Buenos Aires	Estadounidense	Las acongojadas cotorras vinieron a mi círculo
+8	2	26 35	M	Santa Fe	ninguna	las acongojadas cotorras sonrieron a mi círculo
+8	2	26 35	F	Santa Fe	estadounidense	las aconogojadas cortorras se unieron a mi círculo
+9	2	18 25	F	Buenos Aires	Google	Ese gruñon perro prometio a esos cuñados
+9	2	26 35	F	Buenos Aires	puerto rico	ese gruñón perro prometió esos cuñados
+9	2	26 35	M	Córdoba	Estados unidos	pero prometió a esos cuñados
+9	2	26 35	M	Capital Federal	es un robot	el segundo *** prometio a esos cuñados
+9	2	36 45	M	Capital Federal	Mexico	ese gruñón perro prometió a esos cuñados
+9	2	26 35	F	Capital Federal	ucrania	ese gruñon perro prometió a esos cuñados
+10	2	18 25	F	Capital Federal	Español	El nudillo argentino perdió su vaso
+10	2	26 35	F	Formosa	español	el brillo argentino perdio su vaso
+10	2	46 55	F	Buenos Aires	.?	El argentino perdió su vaso
+10	2	36 45	F	Buenos Aires	Ingles 	El novillo argentino perdió su vaso
+10	2	18 25	F	Capital Federal	Mexico	el novillo argentino perdió su vaso
+10	2	18 25	M	Córdoba	argentina	el novillo argentino perdió su vaso
+10	2	26 35	M	Córdoba	No se especifica 	Individuo argentino perdió su vaso
+1	3	18 25	F	Buenos Aires	estadounidense	Mi montaña aguileña recorrió la esquina
+1	3	26 35	F	Buenos Aires	catellano	recorriendo la esquiena
+1	3	18 25	F	Misiones	Estados unidos	Mi montaña aguilenia recorrió la esquina
+1	3	26 35	M	Buenos Aires	EEUU	mi montaña aguileña recorrió la esquina
+1	3	18 25	F	Capital Federal	Irlanda	Mi montaña aguileña recorrió la esquina.
+1	3	18 25	F	Capital Federal	Norte argentino	Mi montaña aguileña recorrió la esquina
+1	3	26 35	M	Córdoba	No se especifica 	Mi montaña..... recorrió la esquina 
+1	3	26 35	M	Capital Federal	eeuu	mi montaña aguileña recorrió la esquina
+1	3	26 35	F	Capital Federal	frances	mi montaña recorrió la esquina
+2	3	26 35	M	Capital Federal	paraguay	te voy a pegar un palazo en la nuca y romperte el orto
+2	3	18 25	M	Buenos Aires	inglesa	aquel fuerte vidrio presidió aquel botón
+2	3	18 25	M	Buenos Aires	Santo Domingo	Aquel Fuel de vidrio prefiere aquel boton
+2	3	26 35	F	Buenos Aires	estadounidense	prefirió el botón
+2	3	36 45	F	Capital Federal	China	
+3	3	18 25	F	Buenos Aires	Ninguna	Este en...fue comprar nuestro corchete
+3	3	18 25	M	Chubut	Inglesa	Este nuestro corchete
+3	3	18 25	F	Buenos Aires	gallego	este enfollado comprara nuestro corchete
+3	3	36 45	F	Buenos Aires	Argentino	Esté nuestro corchete
+3	3	56 65	M	Buenos Aires	Desconocido	Comprara nuestro corchete
+3	3	18 25	F	Neuquen	Ingles	Este enfollado juez comprara nuestro corchete 
+3	3	26 35	M	Buenos Aires	inglés	compraran nuestro corchete
+3	3	26 35	M	Buenos Aires	Español	Este ??? pues comprará nuestro corchete
+3	3	26 35	F	Buenos Aires	estadounidense o inglés	este ... nuestro corchete
+3	3	26 35	M	Buenos Aires	estadounidense	este fue nuestro corchete
+3	3	36 45	F	Capital Federal	americano (EEUU)	estoy nuestro corchete
+4	3	18 25	F	Buenos Aires	Francés 	Frechoia
+4	3	26 35	M	Buenos Aires	Eeuu	Posavasos
+4	3	18 25	M	Fuera de Argentina	chino mandarin	chu ...
+4	3	18 25	M	Fuera de Argentina	Colombia	Tu estrecho posavasos grito la fechoria
+4	3	26 35	M	Córdoba	estaunidense	... la fechoría
+5	3	26 35	F	Buenos Aires	español	este chupetin
+5	3	26 35	M	Buenos Aires	Estados Unidos	nuestro nublado concluyó este chupetín
+5	3	26 35	M	Buenos Aires	Eeuu	Nuestro nublado y re concluyó este chupetin
+5	3	18 25	F	San Luis	Español	
+5	3	26 35	M	Capital Federal	Español neutro	Nuestro ... este chupetin
+5	3	26 35	M	Santa Fe	Inglés/Estado Unidense	Nuestro nublado tigre concluyó este chupetin
+5	3	18 25	M	Fuera de Argentina	Chile 	nuestro ... chupetin
+5	3	26 35	F	Buenos Aires	estadounidense o inglés	nuestro nublado y reconcluyó este chupetín
+6	3	26 35	M	Chubut	Estadounidense	Su profundo riñón apoya a julio
+6	3	18 25	M	Capital Federal	estados unidos	su profundo riñon apoyo a julio
+6	3	18 25	M	Buenos Aires	Estadounidense	su profundo riñón apoyó a Julio
+6	3	26 35	M	Buenos Aires	Argentina	Su profundo riñón apoyó a Julio
+6	3	26 35	M	Santa Fe	cordobés	su profundo riñón apoyó a julio
+6	3	26 35	M	Capital Federal	estadounidense	su profundo riñón apoyó a julio
+7	3	18 25	F	Buenos Aires	Castellano	Frio churrasco lleno de colonia
+7	3	18 25	F	Buenos Aires	Argentino 	El frío churrasco de Polonia 
+7	3	18 25	F	Buenos Aires	Polonia	El frío churrasco 
+7	3	18 25	M	Capital Federal	Francia	el frio churrasco de polonia
+7	3	26 35	M	Capital Federal	Estados Unidos (google translate...)	el frio churrasco llego de polonia
+7	3	26 35	M	Santa Fe	ninguna	el frío churrasco moncholo de polonia
+8	3	18 25	F	Capital Federal	Español	De mi circulo
+8	3	26 35	F	Misiones	Inglesa	Mi círculo 
+8	3	56 65	F	Buenos Aires	Francesa	Las acongojadas cotorras sonrieron en mi círculo
+8	3	18 25	F	Capital Federal	Estadounidense	En mi circulo
+8	3	18 25	F	Buenos Aires	Estadounidense	Las acongojadas cotorras sonrieron a mi círculo
+8	3	26 35	F	Capital Federal	Rusa	Las acongojadas cotorras sonrieron a mi círculo
+8	3	26 35	M	Capital Federal	EEUU	las acongojadas cotorras sonrieron en mi circulo
+8	3	26 35	M	Capital Federal	No hispanohablante	las acongoyadas cotorras sonrieron a mi circulo
+8	3	26 35	F	Capital Federal	rusa	las acongojadas cotorras sonrieron en mi circulo
+9	3	46 55	F	Buenos Aires	Anglo parlante	Ese gruñón perro a esos cuñados
+9	3	36 45	F	Buenos Aires	Ingles	Esa reunion prometiò a esos cuñados
+9	3	18 25	F	Capital Federal	Sueco	Ese gruñon prometio esos cuñados
+9	3	26 35	M	Buenos Aires	a	esas cuñadas
+9	3	26 35	M	Córdoba	H	J
+9	3	18 25	F	Jujuy	españa	Ese gruñón peón prometió a esos cuñados
+10	3	18 25	F	Buenos Aires	Estados unidos	El Argentino perdio su vaso
+10	3	18 25	F	Buenos Aires	estadounidense 	El ... argentino perdió su vaso
+10	3	26 35	M	Capital Federal	robot	el nudillo argentino perdio su vaso
+10	3	36 45	F	Santa Fe	EEUU	argentino perdió su vaso
+10	3	36 45	F	Capital Federal	amerciano (EEUU)	un chico argentino perdió su vaso
+1	4	18 25	F	Buenos Aires	Ninguna	Mi monzonia la cigüeña recorrio la esquina
+1	4	18 25	M	La Pampa	Italiano	Corrio a la esquina
+1	4	18 25	F	San Luis	Castellano 	Recorrió la esquina 
+1	4	18 25	M	Buenos Aires	Guam	Mí montoña aguileña recorrió la esquina
+1	4	18 25	F	Buenos Aires	Canadá	Mi montaña aguileña recorrió la esquina
+1	4	26 35	F	Córdoba	EEUU	Mi corrió la esquina
+1	4	26 35	M	Capital Federal	nose	
+2	4	26 35	F	Formosa	inglesa	aquel blablaba prefirio aquel boton
+2	4	18 25	F	San Luis	Ingles 	
+2	4	18 25	M	Capital Federal	Estados unidos	Preferido aquel boton
+2	4	26 35	M	Córdoba	No se especifica 	Aquel fuerte vidrio prefirió aquel botón
+2	4	26 35	M	Buenos Aires	Ninguna, es un robot. 	
+2	4	36 45	F	Santa Fe	EEUU	Aquel fuerte vidrio prefirió aquel boton
+3	4	26 35	M	Buenos Aires	alemania	este enfollado fuescon cuero nuestro follete
+3	4	26 35	M	Buenos Aires	Hablante nativo de inglés	este ..... fue ..... en nuestro corchete
+3	4	26 35	M	Capital Federal	estadounidense	este vuestro corchete
+3	4	36 45	M	Capital Federal	Ruso	este fue encontrado con nuestro coche
+3	4	46 55	M	Capital Federal	estadounidense	nuestro corchete
+4	4	26 35	F	Buenos Aires	Estados Unidos	tu estrecho posavasos
+4	4	26 35	M	Capital Federal	no lo pude determinar, osea es una maquina	las fechorias (al final de todo)
+4	4	18 25	M	Buenos Aires	estadounidense	la fechoria
+4	4	26 35	F	Capital Federal	Australia	You
+4	4	26 35	M	Buenos Aires	ns/nc	ns/nc
+4	4	26 35	M	Buenos Aires	inglesa	su estrecho posavasos gritó  la fechoría
+4	4	26 35	M	Buenos Aires	Hablante nativo de inglés	tu estrecho posavasos .. la fechoría
+4	4	46 55	M	Capital Federal	estadounidense	vasos la fechoría
+4	4	36 45	F	Capital Federal	americana (EEUU)	tu estrecho portavasos fechoria
+5	4	18 25	F	Buenos Aires	polaco	nuestro reconstruye este chupetìn
+5	4	18 25	F	Buenos Aires	Portugués	Nuestro pequin
+5	4	18 25	F	Buenos Aires	Estadounidense	Nuestro nublado construyó este chupetin
+5	4	18 25	F	Misiones	Estados unidos	Nuestro nublado libre construyó este chupetín
+5	4	18 25	M	Buenos Aires	Estadounidense	nuestro ... este chupetín
+5	4	26 35	M	Buenos Aires	Argentina	Nuestro nublado concluyó a este chupetín
+5	4	18 25	M	Fuera de Argentina	Panama	nuestro anublado reconcluyo este chupetin
+5	4	26 35	M	Capital Federal	estadounidense	nuestro nublado concluyó este chupetín
+6	4	18 25	F	Buenos Aires	Google	Su profundo riñón apoyó a su higado
+6	4	36 45	F	Buenos Aires	Japones	Si profundo neanea nou
+6	4	26 35	F	Capital Federal	Rusia	
+6	4	26 35	M	Capital Federal	google translate	supra india fidileia
+6	4	26 35	F	Santa Fe	estadounidense	su profundo riñón apoyo afilio
+6	4	26 35	M	Buenos Aires	Robot	Su profundo
+6	4	36 45	F	Capital Federal	china	su profundo riñon apoyó a julio
+7	4	18 25	F	Buenos Aires	Google	El frio churrasco de polonia
+7	4	26 35	F	Buenos Aires	inglés 	polonia
+7	4	56 65	M	Buenos Aires	Quichua	Churrasco
+7	4	56 65	F	Buenos Aires	Argwntino	El frió churrasco lleno de  Colonia
+7	4	26 35	M	Capital Federal	eeuu	el frio churrasco de polonia
+7	4	26 35	M	Capital Federal	EEUU	El frio churrasco de polonia
+7	4	36 45	M	Capital Federal	Argentina	El frío churrasco cayo de Polonia
+8	4	18 25	M	Buenos Aires	estadounidense	círculo
+8	4	26 35	F	Buenos Aires	inglés	sonrieron en mi circulo
+8	4	18 25	F	Buenos Aires	estadounidense 	some hemicírculo 
+8	4	26 35	M	Buenos Aires	Estadounidense	... sonrieron en mi círculo
+8	4	26 35	M	Capital Federal	eeuu	plaza sombreada con sombrero sonrieron en mi círculo
+9	4	18 25	F	Tierra del Fuego	Ingles	Its a pair of promises 
+9	4	18 25	F	Buenos Aires	Estadounidense	Ese gruñón pero prometió a esos cuñados
+9	4	18 25	F	Buenos Aires	Estadounidense	Ese gruñón pero prometió a esos cuñados
+9	4	46 55	F	Capital Federal	Ruso	Rsts reunion que prometió a sus...
+9	4	26 35	M	Santa Fe	...	ese gruñón perro prometio a esos cuñados
+9	4	26 35	M	Capital Federal	Aleman	ese gruñon perro prometió a esas cuñadas
+10	4	18 25	F	Buenos Aires	estadounidense	El chico argentino perdió su vaso
+10	4	18 25	M	Buenos Aires	estadounidense	el nuevo dj argentino perdió su vaso
+10	4	26 35	M	Buenos Aires	estadounidense	el susuño argentino perdió su vaso
+10	4	18 25	F	Capital Federal	Taiwán	El ... argentino perdió su vaso.
+10	4	18 25	F	Capital Federal	Estadounidense	El nuevo argentino perdio su vaso
+10	4	18 25	M	Buenos Aires	Computadorlandia	El indígena argentino perdió su vaso
+10	4	26 35	M	Río Negro	Estados Unidos	... argentino perdio su casa
+10	4	18 25	F	Jujuy	estadounidense	argentino perdió su vaso
