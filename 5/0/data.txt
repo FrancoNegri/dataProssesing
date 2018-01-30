@@ -1,6 +1,6 @@
-Castellano
-Español
-Neutro
+Hispanohablante
+Hispanohablante
+Hispanohablante
 nc
-Argentino
-Argentino
+Hispanohablante
+Hispanohablante

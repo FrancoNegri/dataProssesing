@@ -1,10 +1,10 @@
-Argentino
-Colombiano
-Argentino
-Paraguayo
-Argentino
-Argentino
-Español neutro
+Hispanohablante
+Hispanohablante
+Hispanohablante
+Hispanohablante
+Hispanohablante
+Hispanohablante
+Hispanohablante
 Frances
-Estadounidense
-Argentino
+Angloparlante
+Hispanohablante

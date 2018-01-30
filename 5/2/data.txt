@@ -1,9 +1,9 @@
-Argentino
+Hispanohablante
 nc
-Argentino
-Inglés
-Estadounidense
+Hispanohablante
+Angloparlante
+Angloparlante
 nc
-Estadounidense
+Angloparlante
 nc
-español neutro
+Hispanohablante
