@@ -1,7 +1,9 @@
 import matplotlib.pyplot as plt
 import numpy as np
+import matplotlib as mpl
+print mpl.style.available
 
-
+mpl.style.use('seaborn-dark')
 for j in range(1,11):
     data = []
     for i in range(0,5):
